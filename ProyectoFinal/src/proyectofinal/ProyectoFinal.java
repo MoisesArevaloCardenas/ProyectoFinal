@@ -21,6 +21,8 @@ public class ProyectoFinal {
         System.out.println("Geys Todos");
         System.out.println("Compañero este proyecto debe salir muy bien");
         System.out.println("Ya saben como funciona??");
+
+        System.out.println("Prueba con add y el commit");
     }
 
 }
