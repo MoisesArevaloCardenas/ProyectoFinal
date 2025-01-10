@@ -19,6 +19,7 @@ public class ProyectoFinal {
         System.out.println("Hola");
         System.out.println("Messi Goat");
         System.out.println("Geys Todos");
+
         System.out.println(" VALIENDO GAVER");
         int num=4;
         if(num<3){
@@ -26,6 +27,9 @@ public class ProyectoFinal {
         }else{
             System.out.println("Holaaaaaa");
         }
+        System.out.println("Compañero este proyecto debe salir muy bien");
+        System.out.println("Ya saben como funciona??");
+
     }
 
 }
