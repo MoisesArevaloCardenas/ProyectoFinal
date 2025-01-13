@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+
 package proyectofinal;
 
 /**
@@ -22,7 +19,7 @@ public class ProyectoFinal {
         System.out.println("Compañero este proyecto debe salir muy bien");
         System.out.println("Ya saben como funciona??");
 
-        System.out.println("Prueba con add y el commit");
+        System.out.println("Prueba ssScon add y el commit");
         System.out.println("Ultima version");
     }
 
